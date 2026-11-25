@@ -1,7 +1,7 @@
 # Liam Moran
 **PhD Student | Computational Neuroscience | Neuroendocrine Modelling**
 
-I'm a PhD student in the **Broberger Lab** at Stockholm University. My research focuses on understanding how hypothalamic dopamine neurons—especially those in the **TIDA network**—interact electrically to regulate hormone release. I’m interested in how small neural networks synchronise robustly despite biological noise, and I will **computational modelling** to bridge the gap between cellular physiology and emergent circuit dynamics.
+I'm a PhD student in the **Broberger Lab** at Stockholm University. My research focuses on understanding how hypothalamic dopamine neurons—especially those in the **TIDA network** - interact electrically to regulate hormone release. I’m interested in how small neural networks synchronise robustly despite biological noise, and I will **computational modelling** to bridge the gap between cellular physiology and emergent circuit dynamics.
 
 ---
 
