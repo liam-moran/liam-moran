@@ -1,7 +1,7 @@
 # Liam Moran
-**PhD Student | Computational Neuroscience | Neuroendocrine Modeling**
+**PhD Student | Computational Neuroscience | Neuroendocrine Modelling**
 
-I'm a PhD student in the **Broberger Lab** at Stockholm University. My research focuses on understanding how hypothalamic dopamine neurons—especially those in the **TIDA network**—interact electrically to regulate hormone release. I’m interested in how small neural networks synchronize robustly despite biological noise, and I use **computational modeling** to bridge the gap between cellular physiology and emergent circuit dynamics.
+I'm a PhD student in the **Broberger Lab** at Stockholm University. My research focuses on understanding how hypothalamic dopamine neurons—especially those in the **TIDA network**—interact electrically to regulate hormone release. I’m interested in how small neural networks synchronise robustly despite biological noise, and I will **computational modelling** to bridge the gap between cellular physiology and emergent circuit dynamics.
 
 ---
 
@@ -10,12 +10,12 @@ I’m driven by a fascination with **emergent phenomena**, **determinism**, and 
 
 - **Neuroendocrine Circuits**: Investigating how hypothalamic dopamine neurons regulate hormone release.
 - **TIDA Network**: Understanding how gap junction connectivity and intrinsic ion currents generate stable, rhythmic activity.
-- **Emergent Dynamics**: Exploring how simple local rules lead to robust global synchronization in neural circuits.
+- **Emergent Dynamics**: Exploring how simple local rules lead to robust global synchronisation in neural circuits.
 
 ### Key Questions I Explore:
 - How does **network architecture** shape stability and adaptability?
-- How do neural circuits encode **behavioral and hormonal states**?
-- How do systems reorganize under **perturbation**, such as pharmacological modulation or environmental changes?
+- How do neural circuits encode **behavioural and hormonal states**?
+- How do systems reorganise under **perturbation**, such as pharmacological modulation or environmental changes?
 
 ---
 
